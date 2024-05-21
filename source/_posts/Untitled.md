@@ -32,3 +32,5 @@ obsidian git是如何知道推送到哪个仓库的？
 创建github时，不要添加readme文件，不然本地无法推送成功。
 
 https://www.bilibili.com/video/BV1G84y1B7NH/?spm_id_from=333.999.0.0&vd_source=764030908519be15b41a206ff5023320
+
+https://www.bilibili.com/video/BV1sK411Q7S7/?spm_id_from=333.337.search-card.all.click&vd_source=764030908519be15b41a206ff5023320
