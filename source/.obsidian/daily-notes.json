@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "template": "_template/dailyTemplate",
+  "folder": "daily/2024",
+  "format": "YYYY-MM-DD-dddd"
+}

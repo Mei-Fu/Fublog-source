@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "ea397de8dc43c111",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bea504957e9fb63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2011bb94b09583a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-07-obsidian插件的使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad7436804b6c5a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d856b6541f0a177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c910586d02697822",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a273350d977ba5e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "770b25acfaa2a994",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eacdf0738db1f9ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "36be887ec67659de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9786a8509327ddc6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-07-obsidian插件的使用.md"
+              }
+            }
+          },
+          {
+            "id": "6a7c1c29aa68a4a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2024-01-07-obsidian插件的使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b78d4c5d463dd218",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2024-01-07-obsidian插件的使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bfa8c43a55e1101",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37fddffb06cd7ebf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2024-01-07-obsidian插件的使用.md"
+              }
+            }
+          },
+          {
+            "id": "3a99ff0038e2a023",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2011bb94b09583a6",
+  "lastOpenFiles": [
+    "未命名.md",
+    "_posts/2024-01-07-obsidian插件的使用.md",
+    "_posts/2024-01-10-mac快捷键使用.md",
+    "_posts/2024-01-10-服务器相关知识.md",
+    "daily/2024/2024-01-13-星期六.md",
+    "daily/2024/2024-01-09-Tuesday.md",
+    "daily/2024/2024-01-07-星期日.md",
+    "daily/2023/2023-12-31-星期日.md",
+    "daily/2023/2023-12-30-星期六.md",
+    "daily/2023/2023-12-26-星期二.md",
+    "categories/index.md",
+    "about/index.md",
+    "_template/dailyTemplate.md",
+    "_template/blogTemplate.md",
+    "_posts/2024-01-01-redis.md",
+    "_posts/2024-01-01-tomcat.md",
+    "_posts/2024-01-06-k8s.md",
+    "_posts/2024-01-06-pod的创建与管理.md",
+    "_posts/2024-01-06-service的创建与管理.md",
+    "_posts/2024-01-07-Java web应用的容器化发布.md",
+    "daily/2024-01-09 理性.md",
+    "daily/(Every T,W,R,F) 粤海外出.md",
+    "daily/2024/2024-01-09-星期二.md",
+    "daily/2024/2024-01-09-test.md",
+    "Pasted image 20240106192714.png",
+    "Pasted image 20240106192556.png",
+    "Pasted image 20240106183837.png",
+    "Pasted image 20240106183806.png",
+    "daily/2024-01-09 1.md",
+    "daily/2024-01-09 理发.md",
+    "daily/2024",
+    "_template",
+    "未命名.canvas",
+    "daily/2023",
+    "daily"
+  ]
+}
