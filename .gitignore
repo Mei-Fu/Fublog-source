@@ -9,4 +9,5 @@ public/
 .idea
 .env
 .env.build
+.obsidian
 .vercel

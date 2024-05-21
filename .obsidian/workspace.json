@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "source/_posts/Untitled.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,7 +156,7 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "1948e6bd05fae4c4",
+  "active": "7e14255130fac1e4",
   "lastOpenFiles": [
     "yarn.lock",
     "source/img/Pasted image 20240521204053.png",

@@ -28,3 +28,5 @@ obsidian git是如何知道推送到哪个仓库的？
 通过obsidian git推送的话，github仓库只放public目录，还是要整个项目？
 
 如何通过git将项目推送到github仓库？
+
+创建github时，不要添加readme文件，不然本地无法推送成功。
