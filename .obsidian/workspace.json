@@ -6,7 +6,6 @@
       {
         "id": "d373226b37c8c686",
         "type": "tabs",
-        "dimension": 58.75912408759124,
         "children": [
           {
             "id": "eb662047b8d69d60",
@@ -14,30 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/daily/2024/Untitled.md",
+                "file": "source/daily/2024/标签系统搭建.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "f10a7710bc1f110f",
-        "type": "tabs",
-        "dimension": 41.24087591240876,
-        "children": [
+          },
           {
-            "id": "1af9db996310c79a",
+            "id": "84eb3a6953592459",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "source/daily/2024/Untitled.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#k8s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/daily/2024/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/daily/2024/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,8 +131,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "4af3e72f887a73f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ],
@@ -151,7 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 374.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -167,17 +164,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eb662047b8d69d60",
+  "active": "84eb3a6953592459",
   "lastOpenFiles": [
-    "source/_posts/www.baidu.com.md",
+    "source/daily/2024/标签系统搭建.md",
+    "source/daily/2024/Untitled 1.md",
+    "Excalidraw/Drawing 2024-05-26 03.56.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-26 03.42.26.excalidraw.md",
+    "source/_posts/2024-01-07-Java web应用的容器化发布.md",
+    "source/_posts/2024-01-06-pod的创建与管理.md",
     "source/daily/2024/Untitled.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
+    "source/_posts/www.baidu.com.md",
     "source/daily/2024/2024-01-07-星期日.md",
     "source/daily/2024/2024-01-13-星期六.md",
     "source/_posts/2024-01-01-redis.md",
     "source/_posts/2023-12-23-test.md",
     "source/_posts/2023-12-23-post.md",
-    "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
     "source/_template/blogTemplate.md",
     "Excalidraw",
     "source/_posts/Untitled.md",
@@ -208,7 +211,6 @@
     "source/_posts/My-New-post.md",
     "2023-12-24.md",
     "source/link/index.md",
-    "source/categories/index.md",
-    "source/about/index.md"
+    "source/categories/index.md"
   ]
 }
