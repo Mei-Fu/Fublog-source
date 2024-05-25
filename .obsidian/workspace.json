@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "7810ec490be58438",
+        "id": "d373226b37c8c686",
         "type": "tabs",
+        "dimension": 58.75912408759124,
         "children": [
           {
-            "id": "5b6a8de7ab788a6e",
+            "id": "eb662047b8d69d60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
+                "file": "source/daily/2024/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f10a7710bc1f110f",
+        "type": "tabs",
+        "dimension": 41.24087591240876,
+        "children": [
+          {
+            "id": "1af9db996310c79a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/daily/2024/Untitled.md"
               }
             }
           }
@@ -71,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -91,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+                "file": "source/daily/2024/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+                "file": "source/daily/2024/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,21 +142,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "1af9db996310c79a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,14 +167,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5b6a8de7ab788a6e",
+  "active": "eb662047b8d69d60",
   "lastOpenFiles": [
-    "source/_template/blogTemplate.md",
-    "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "source/_posts/www.baidu.com.md",
     "source/daily/2024/Untitled.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
     "source/daily/2024/2024-01-07-星期日.md",
     "source/daily/2024/2024-01-13-星期六.md",
+    "source/_posts/2024-01-01-redis.md",
+    "source/_posts/2023-12-23-test.md",
+    "source/_posts/2023-12-23-post.md",
+    "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "source/_template/blogTemplate.md",
     "Excalidraw",
     "source/_posts/Untitled.md",
     "yarn.lock",
@@ -190,11 +206,9 @@
     "source/img/Pasted image 20240106192714.png",
     "source/music/index.md",
     "source/_posts/My-New-post.md",
-    "source/_posts/2023-12-23-test.md",
     "2023-12-24.md",
     "source/link/index.md",
     "source/categories/index.md",
-    "source/about/index.md",
-    "source/_posts/2023-12-23-post.md"
+    "source/about/index.md"
   ]
 }

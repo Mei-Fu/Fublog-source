@@ -9,6 +9,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "source/_posts",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "source/img"
 }
