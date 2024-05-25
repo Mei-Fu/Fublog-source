@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e14255130fac1e4",
+            "id": "5b6a8de7ab788a6e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "source/_posts/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
               }
             }
           }
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/Untitled.md"
+                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
               }
             }
           }
@@ -154,11 +151,20 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "vscode-editor:新建代码文件": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7e14255130fac1e4",
+  "active": "5b6a8de7ab788a6e",
   "lastOpenFiles": [
+    "source/_template/blogTemplate.md",
+    "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "source/daily/2024/Untitled.md",
+    "source/daily/2024/2024-01-09-Tuesday.md",
+    "source/daily/2024/2024-01-07-星期日.md",
+    "source/daily/2024/2024-01-13-星期六.md",
+    "Excalidraw",
+    "source/_posts/Untitled.md",
     "yarn.lock",
     "source/img/Pasted image 20240521204053.png",
     "db.json",
@@ -175,8 +181,6 @@
     "public/page/2/index.html",
     "public/daily/2024/2024-01-09-Tuesday.html",
     "public/js/search/local-search.js",
-    "public/js/search/algolia.js",
-    "public/js/utils.js",
     "public/img/friend_404.gif",
     "source/_posts/hello-world.md",
     "scaffolds/post.md",
@@ -184,10 +188,6 @@
     "scaffolds/draft.md",
     "source/img/Pasted image 20240106183806.png",
     "source/img/Pasted image 20240106192714.png",
-    "source/_posts/Untitled.md",
-    "source/daily/2024/2024-01-07-星期日.md",
-    "source/daily/2024/2024-01-13-星期六.md",
-    "source/daily/2024/2024-01-09-Tuesday.md",
     "source/music/index.md",
     "source/_posts/My-New-post.md",
     "source/_posts/2023-12-23-test.md",
