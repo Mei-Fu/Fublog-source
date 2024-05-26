@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "84eb3a6953592459",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "source/daily/2024/标签系统搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "source/daily/2024/标签系统搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,6 +133,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "source/daily/2024/标签系统搭建.md"
+              }
+            }
+          },
+          {
+            "id": "f36330c665285df1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -148,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
+    "width": 337.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,21 +167,28 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "84eb3a6953592459",
+  "active": "eb662047b8d69d60",
   "lastOpenFiles": [
-    "source/daily/2024/标签系统搭建.md",
-    "source/daily/2024/Untitled 1.md",
-    "Excalidraw/Drawing 2024-05-26 03.56.35.excalidraw.md",
+    "source/img/Pasted image 20240106183806.png",
     "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "source/daily/2024/标签系统搭建.md",
     "Excalidraw/Drawing 2024-05-26 03.42.26.excalidraw.md",
-    "source/_posts/2024-01-07-Java web应用的容器化发布.md",
+    "Excalidraw/Drawing 2024-05-26 03.56.35.excalidraw.md",
+    "source/_posts/2023-12-26-test1.md",
     "source/_posts/2024-01-06-pod的创建与管理.md",
+    "source/_posts/2024-01-01-tomcat.md",
+    "source/_posts/2024-01-10-服务器相关知识.md",
+    "source/_posts/2024-01-07-Java web应用的容器化发布.md",
+    "source/_posts/2024-01-06-service的创建与管理.md",
+    "source/_posts/2024-01-06-环境检查.md",
+    "source/_posts/2024-01-06-k8s.md",
+    "source/_posts/2024-01-01-redis.md",
+    "source/daily/2024/Untitled 1.md",
     "source/daily/2024/Untitled.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
     "source/_posts/www.baidu.com.md",
     "source/daily/2024/2024-01-07-星期日.md",
     "source/daily/2024/2024-01-13-星期六.md",
-    "source/_posts/2024-01-01-redis.md",
     "source/_posts/2023-12-23-test.md",
     "source/_posts/2023-12-23-post.md",
     "source/_template/blogTemplate.md",
@@ -203,14 +213,6 @@
     "public/img/friend_404.gif",
     "source/_posts/hello-world.md",
     "scaffolds/post.md",
-    "scaffolds/page.md",
-    "scaffolds/draft.md",
-    "source/img/Pasted image 20240106183806.png",
-    "source/img/Pasted image 20240106192714.png",
-    "source/music/index.md",
-    "source/_posts/My-New-post.md",
-    "2023-12-24.md",
-    "source/link/index.md",
-    "source/categories/index.md"
+    "source/img/Pasted image 20240106192714.png"
   ]
 }
