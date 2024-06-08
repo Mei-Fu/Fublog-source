@@ -11,9 +11,11 @@
             "id": "eb662047b8d69d60",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
+                "file": "source/daily/2024/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+                "file": "source/daily/2024/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+                "file": "source/daily/2024/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md"
+                "file": "source/daily/2024/Untitled.md"
               }
             }
           },
@@ -166,12 +168,15 @@
   },
   "active": "eb662047b8d69d60",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-26 03.42.26.excalidraw.md",
-    "source/daily/2024/Untitled.md",
+    "source/daily/2024/Untitled 1.md",
     "source/daily/2024/标签系统搭建.md",
-    "source/img/Pasted image 20240106183806.png",
+    "source/daily/2024/2024-01-07-星期日.md",
+    "source/daily/2024/2024-01-13-星期六.md",
+    "source/daily/2024/Untitled.md",
     "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-26 03.42.26.excalidraw.md",
     "Excalidraw/Drawing 2024-05-26 03.56.35.excalidraw.md",
+    "source/img/Pasted image 20240106183806.png",
     "source/_posts/2023-12-26-test1.md",
     "source/_posts/2024-01-06-pod的创建与管理.md",
     "source/_posts/2024-01-01-tomcat.md",
@@ -181,11 +186,8 @@
     "source/_posts/2024-01-06-环境检查.md",
     "source/_posts/2024-01-06-k8s.md",
     "source/_posts/2024-01-01-redis.md",
-    "source/daily/2024/Untitled 1.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
     "source/_posts/www.baidu.com.md",
-    "source/daily/2024/2024-01-07-星期日.md",
-    "source/daily/2024/2024-01-13-星期六.md",
     "source/_posts/2023-12-23-test.md",
     "source/_posts/2023-12-23-post.md",
     "source/_template/blogTemplate.md",
