@@ -83,8 +83,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/daily/2023/2023-12-31-星期日.md",
+                "file": "source/daily/2024/2024-01-13-星期六.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2023-12-31-星期日 的反向链接列表"
+              "title": "2024-01-13-星期六 的反向链接列表"
             }
           },
           {
@@ -123,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/daily/2023/2023-12-31-星期日.md",
+                "file": "source/daily/2024/2024-01-13-星期六.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2023-12-31-星期日 的出链列表"
+              "title": "2024-01-13-星期六 的出链列表"
             }
           },
           {
@@ -150,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/daily/2023/2023-12-31-星期日.md"
+                "file": "source/daily/2024/2024-01-13-星期六.md"
               },
               "icon": "lucide-list",
-              "title": "2023-12-31-星期日 的大纲"
+              "title": "2024-01-13-星期六 的大纲"
             }
           },
           {
@@ -186,18 +185,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "eb662047b8d69d60",
+  "active": "1948e6bd05fae4c4",
   "lastOpenFiles": [
-    "source/_posts/2023-12-23-post.md",
-    "source/daily/2024/标签系统搭建.md",
-    "source/daily/2023/2023-12-26-星期二.md",
-    "source/daily/2023/2023-12-30-星期六.md",
-    "source/daily/2023/2023-12-31-星期日.md",
     "source/daily/2024/2024-01-07-星期日.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
     "source/daily/2024/2024-01-13-星期六.md",
     "source/daily/2024/Untitled.md",
     "source/daily/2024/Untitled 1.md",
+    "source/daily/2024/标签系统搭建.md",
+    "source/daily/2023/2023-12-26-星期二.md",
+    "source/daily/2023/2023-12-30-星期六.md",
+    "source/daily/2023/2023-12-31-星期日.md",
+    "source/_posts/2023-12-23-post.md",
     "Excalidraw/Drawing 2024-05-25 03.31.48.excalidraw.md",
     "Excalidraw/Drawing 2024-05-26 03.42.26.excalidraw.md",
     "Excalidraw/Drawing 2024-05-26 03.56.35.excalidraw.md",
