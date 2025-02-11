@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/daily/2024/2024-01-13-星期六.md",
-                "mode": "source",
+                "file": "source/daily/2024/Untitled.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-01-13-星期六"
+              "title": "Untitled"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -197,16 +198,17 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "61621e01d7faf650",
+  "active": "1948e6bd05fae4c4",
   "lastOpenFiles": [
-    "source/daily/2024/标签系统搭建.md",
+    "source/daily/2024/Untitled 1.md",
     "source/daily/2024/Untitled.md",
+    "Excalidraw/Drawing 2025-02-11 17.06.01.excalidraw.md",
+    "source/daily/2024/2024-01-13-星期六.md",
+    "source/daily/2024/标签系统搭建.md",
     "node_modules/ms/readme.md",
     "source/_posts/Untitled.md",
     "source/daily/2024/2024-01-09-Tuesday.md",
     "source/daily/2024/2024-01-07-星期日.md",
-    "source/daily/2024/2024-01-13-星期六.md",
-    "source/daily/2024/Untitled 1.md",
     "source/_posts/2024-01-07-obsidian插件的使用.md",
     "source/_posts/2023-12-30-Great.md",
     "source/daily/2023/2023-12-31-星期日.md",
@@ -225,7 +227,6 @@
     "source/_posts/2024-01-06-service的创建与管理.md",
     "source/_posts/2024-01-06-环境检查.md",
     "source/_posts/2024-01-06-k8s.md",
-    "source/_posts/2024-01-01-redis.md",
     "Excalidraw",
     "yarn.lock",
     "source/img/Pasted image 20240521204053.png",
