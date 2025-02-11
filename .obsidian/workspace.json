@@ -165,9 +165,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "61621e01d7faf650",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -183,10 +193,11 @@
       "command-palette:打开命令面板": false,
       "vscode-editor:新建代码文件": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eb662047b8d69d60",
+  "active": "61621e01d7faf650",
   "lastOpenFiles": [
     "source/daily/2024/2024-01-13-星期六.md",
     "source/daily/2024/Untitled.md",
